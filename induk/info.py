@@ -4,9 +4,9 @@ print ("\033[1;32mSYSTEM LOGIN INFORMASI")
 
 print ("\033[1;32mMASUKKAN USER & PASSWORD")
 
-KK = 'KARTU KELUARGA'      
+KK  : 'KARTU KELUARGA'      
 
-NIK= 'NOMER INDUK KEPENDUDUKAN'
+NIK : 'NOMER INDUK KEPENDUDUKAN'
 
 
 
@@ -20,11 +20,11 @@ def restart():
 
 def main():
 
-	uname = raw_input("username : ")
+	uname = raw_input("KK  : ")
 
 	if uname == username:
 
-		pwd = raw_input("password : ")
+		pwd = raw_input("NIK : ")
 
 
 
