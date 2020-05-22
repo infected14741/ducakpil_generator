@@ -42,7 +42,7 @@ def main():
 
 			print "Back Login\n"
 
-			restart()
+			penduduk()
 
 
 
@@ -52,7 +52,7 @@ def main():
 
 		print "Back Login\n"
 
-		info()
+		penduduk()
 
 
 
@@ -64,4 +64,4 @@ except KeyboardInterrupt:
 
 	os.system('clear')
 
-	restart()
+	penduduk()
