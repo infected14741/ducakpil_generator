@@ -14,5 +14,4 @@ python Restart.py
 clear
 cd induk
 clear
-python2 info.py
 python penduduk.py
