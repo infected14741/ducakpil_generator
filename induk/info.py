@@ -52,7 +52,7 @@ def main():
 
 		print "Back Login\n"
 
-		restart()
+		info()
 
 
 
