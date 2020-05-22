@@ -16,5 +16,3 @@ cd induk
 clear
 python2 info.py
 python penduduk.py
-cd
-cd dukcapil_generator
