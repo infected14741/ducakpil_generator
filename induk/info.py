@@ -10,7 +10,7 @@ NIK : 'NOMER INDUK KEPENDUDUKAN'
 
 
 
-def restart():
+def info():
 
 	ngulang = sys.executable
 
