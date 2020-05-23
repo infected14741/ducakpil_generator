@@ -14,4 +14,5 @@ python Restart.py
 clear
 cd induk
 clear
-python penduduk.py
+python surabaya_utara.py
+python jakarta_barat.py
