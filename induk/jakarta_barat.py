@@ -6,7 +6,7 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.2)
-	mengetik('JAKARTA BARAT')
+mengetik('JAKARTA BARAT')
 mengetik('                       ')
 mengetik('NAMA : KEVIN EFENDI')
 mengetik('NIK : 3173011504761003')
