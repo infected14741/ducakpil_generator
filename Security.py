@@ -4,9 +4,9 @@ print ("\033[1;32mSYSTEM LOGIN ADMIN")
 
 print ("\033[1;32mMASUKKAN USER & PASSWORD")
 
-username = 'Fauzi IFC'      
+username = 'Infected_aofsfof'      
 
-password = 'IndahMewanty14741'
+password = 'Anonymous Official Indonesia'
 
 
 
